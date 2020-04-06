@@ -2,3 +2,5 @@
 4.04  leetcode42 雨水
 
 4.05  leetcode460 LRU
+
+4.06  leetcode72 Edit Distance
